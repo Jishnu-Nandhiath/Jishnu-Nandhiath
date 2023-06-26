@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on wagtail
+- 🌱 I’m currently learning Go and backend architectures.
+- 💬 Ask me about backend and Django.
+- 👯 I’m looking to collaborate on opensource
+- ⚡ Fun fact: I love 😺s
 <!--
 **Jishnu-Nandhiath/Jishnu-Nandhiath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
