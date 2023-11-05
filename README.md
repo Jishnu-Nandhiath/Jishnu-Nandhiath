@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on wagtail
 - 🌱 I’m currently learning Go and backend architectures.
 - 💬 Ask me about backend and Django.
 - 👯 I’m looking to collaborate on opensource
